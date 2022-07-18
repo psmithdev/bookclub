@@ -36,4 +36,4 @@ Tip 2: Think! about your work<br>
 IBM old corporate motto, never be on auto-pilot.  Constantly be thinking and critiquing your work.
 
 Tip 3: It's your life<br>
-It is your life.  You own it.  You run it.  You create it.
+It is your life.  You own it.  You run it.  You create it. 
