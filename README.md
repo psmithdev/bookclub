@@ -37,3 +37,6 @@ IBM old corporate motto, never be on auto-pilot.  Constantly be thinking and cri
 
 Tip 3: It's your life<br>
 It is your life.  You own it.  You run it.  You create it. 
+
+8/1 Monday
+https://software-engineering-books.com/
