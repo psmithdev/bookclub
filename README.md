@@ -40,3 +40,11 @@ It is your life.  You own it.  You run it.  You create it.
 
 8/1 Monday
 https://software-engineering-books.com/
+
+8/14 Section 2 Discussions
+Tips 14-23
+Favorite TIP so far is the DRY Principle.  Don't Repeat Yourself.  Make it easy to make changes throughout your code and projects, no matter how small. Otherwise duplicating knowledge across systems and whatever will slow you down and give you major headaches.
+
+My way of relating to DRY is graphic design with my woodoworking projects.  It can get so messy and not orgnaized with all the file revisions I produce.  And the transfer of physical files from one location to the next.  Laptop, desktop, USB drive, the list goes on.
+
+So far, I have only mostly written HTML/CSS static stuff up to 100 lines of code a project.  I can already feel the need to keep things simple, concise, easy to make changes, especially if I need to revisit something 6 months from now.
