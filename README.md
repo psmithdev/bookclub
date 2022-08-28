@@ -48,3 +48,19 @@ Favorite TIP so far is the DRY Principle.  Don't Repeat Yourself.  Make it easy 
 My way of relating to DRY is graphic design with my woodoworking projects.  It can get so messy and not orgnaized with all the file revisions I produce.  And the transfer of physical files from one location to the next.  Laptop, desktop, USB drive, the list goes on.
 
 So far, I have only mostly written HTML/CSS static stuff up to 100 lines of code a project.  I can already feel the need to keep things simple, concise, easy to make changes, especially if I need to revisit something 6 months from now.
+
+8/28/2022
+
+Section 3: The Basic Tools
+
+TIP 25: Keep knowledge in Plain Text
+The power of plain text.  Make it understandable and human readable.  Keep things simple, neat and organized.
+
+TIP 26: Use the power of Command Shells 
+GUI interfaces and WYSIWYG tools, wix and wordpress.  Spice up your terminal will colors, themes, and prompts. Tab completion for commands.  Be like a hermit crab, make your terminal your home.
+
+TIP 27: Achieve Editor Fluency
+How can I automate simple tasks and make myself more efficient?  Lose the mouse for a week.  Try only using keyboard.  Linux teaches you to use keyboard more.
+
+TIP 28: Always Use Version Control
+Git and Github workflow.  Use VCS for just about anything.  Creating a backup of your devices, simple plain text files, large scale projects for groups.  Use it, learn it, love it.  Programming is really an art of doing, just like reading the prag book and doing the stuff it suggests. Github repo of my backups.
