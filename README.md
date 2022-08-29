@@ -64,3 +64,6 @@ How can I automate simple tasks and make myself more efficient?  Lose the mouse 
 
 TIP 28: Always Use Version Control
 Git and Github workflow.  Use VCS for just about anything.  Creating a backup of your devices, simple plain text files, large scale projects for groups.  Use it, learn it, love it.  Programming is really an art of doing, just like reading the prag book and doing the stuff it suggests. Github repo of my backups.
+
+Two sections this time September 11th
+Section 4 and 5
